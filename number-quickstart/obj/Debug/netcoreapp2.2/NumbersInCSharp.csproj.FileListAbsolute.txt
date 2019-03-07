@@ -1,0 +1,11 @@
+/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.deps.json
+/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.runtimeconfig.json
+/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.runtimeconfig.dev.json
+/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.dll
+/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.pdb
+/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.csprojAssemblyReference.cache
+/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.AssemblyInfoInputs.cache
+/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.AssemblyInfo.cs
+/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.dll
+/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.pdb

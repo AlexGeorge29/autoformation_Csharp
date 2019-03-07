@@ -1,0 +1,11 @@
+/home/alex/code/AlexGeorge29/autoformation_Csharp/branches-tutorial/bin/Debug/netcoreapp2.2/BranchesAndLoops.deps.json
+/home/alex/code/AlexGeorge29/autoformation_Csharp/branches-tutorial/bin/Debug/netcoreapp2.2/BranchesAndLoops.runtimeconfig.json
+/home/alex/code/AlexGeorge29/autoformation_Csharp/branches-tutorial/bin/Debug/netcoreapp2.2/BranchesAndLoops.runtimeconfig.dev.json
+/home/alex/code/AlexGeorge29/autoformation_Csharp/branches-tutorial/bin/Debug/netcoreapp2.2/BranchesAndLoops.dll
+/home/alex/code/AlexGeorge29/autoformation_Csharp/branches-tutorial/bin/Debug/netcoreapp2.2/BranchesAndLoops.pdb
+/home/alex/code/AlexGeorge29/autoformation_Csharp/branches-tutorial/obj/Debug/netcoreapp2.2/BranchesAndLoops.csprojAssemblyReference.cache
+/home/alex/code/AlexGeorge29/autoformation_Csharp/branches-tutorial/obj/Debug/netcoreapp2.2/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/home/alex/code/AlexGeorge29/autoformation_Csharp/branches-tutorial/obj/Debug/netcoreapp2.2/BranchesAndLoops.AssemblyInfoInputs.cache
+/home/alex/code/AlexGeorge29/autoformation_Csharp/branches-tutorial/obj/Debug/netcoreapp2.2/BranchesAndLoops.AssemblyInfo.cs
+/home/alex/code/AlexGeorge29/autoformation_Csharp/branches-tutorial/obj/Debug/netcoreapp2.2/BranchesAndLoops.dll
+/home/alex/code/AlexGeorge29/autoformation_Csharp/branches-tutorial/obj/Debug/netcoreapp2.2/BranchesAndLoops.pdb

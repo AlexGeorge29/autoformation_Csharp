@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/branches-tutorial/BranchesAndLoops.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
