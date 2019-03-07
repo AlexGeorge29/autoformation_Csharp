@@ -1,0 +1,11 @@
+/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/bin/Debug/netcoreapp2.2/quizz1.deps.json
+/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/bin/Debug/netcoreapp2.2/quizz1.runtimeconfig.json
+/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/bin/Debug/netcoreapp2.2/quizz1.runtimeconfig.dev.json
+/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/bin/Debug/netcoreapp2.2/quizz1.dll
+/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/bin/Debug/netcoreapp2.2/quizz1.pdb
+/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/obj/Debug/netcoreapp2.2/quizz1.csprojAssemblyReference.cache
+/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/obj/Debug/netcoreapp2.2/quizz1.csproj.CoreCompileInputs.cache
+/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/obj/Debug/netcoreapp2.2/quizz1.AssemblyInfoInputs.cache
+/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/obj/Debug/netcoreapp2.2/quizz1.AssemblyInfo.cs
+/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/obj/Debug/netcoreapp2.2/quizz1.dll
+/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/obj/Debug/netcoreapp2.2/quizz1.pdb

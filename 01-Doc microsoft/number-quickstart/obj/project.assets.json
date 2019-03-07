@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/NumbersInCSharp.csproj",
+      "projectUniqueName": "/home/alex/code/AlexGeorge29/autoformation_Csharp/01-Doc microsoft/number-quickstart/NumbersInCSharp.csproj",
       "projectName": "NumbersInCSharp",
-      "projectPath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/NumbersInCSharp.csproj",
+      "projectPath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/01-Doc microsoft/number-quickstart/NumbersInCSharp.csproj",
       "packagesPath": "/home/alex/.nuget/packages/",
-      "outputPath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/number-quickstart/obj/",
+      "outputPath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/01-Doc microsoft/number-quickstart/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

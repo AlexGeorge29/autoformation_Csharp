@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/interpolated.csproj",
+      "projectUniqueName": "/home/alex/code/AlexGeorge29/autoformation_Csharp/01-Doc microsoft/interpolated/interpolated.csproj",
       "projectName": "interpolated",
-      "projectPath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/interpolated.csproj",
+      "projectPath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/01-Doc microsoft/interpolated/interpolated.csproj",
       "packagesPath": "/home/alex/.nuget/packages/",
-      "outputPath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/obj/",
+      "outputPath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/01-Doc microsoft/interpolated/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

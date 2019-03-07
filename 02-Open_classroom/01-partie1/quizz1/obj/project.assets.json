@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alex/code/AlexGeorge29/autoformation_Csharp/01-Doc microsoft/branches-tutorial/BranchesAndLoops.csproj",
-      "projectName": "BranchesAndLoops",
-      "projectPath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/01-Doc microsoft/branches-tutorial/BranchesAndLoops.csproj",
+      "projectUniqueName": "/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/quizz1.csproj",
+      "projectName": "quizz1",
+      "projectPath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/quizz1.csproj",
       "packagesPath": "/home/alex/.nuget/packages/",
-      "outputPath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/01-Doc microsoft/branches-tutorial/obj/",
+      "outputPath": "/home/alex/code/AlexGeorge29/autoformation_Csharp/02-Open_classroom/01-partie1/quizz1/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
