@@ -1,0 +1,11 @@
+/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/bin/Debug/netcoreapp2.2/interpolated.deps.json
+/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/bin/Debug/netcoreapp2.2/interpolated.runtimeconfig.json
+/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/bin/Debug/netcoreapp2.2/interpolated.runtimeconfig.dev.json
+/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/bin/Debug/netcoreapp2.2/interpolated.dll
+/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/bin/Debug/netcoreapp2.2/interpolated.pdb
+/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/obj/Debug/netcoreapp2.2/interpolated.csprojAssemblyReference.cache
+/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/obj/Debug/netcoreapp2.2/interpolated.csproj.CoreCompileInputs.cache
+/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/obj/Debug/netcoreapp2.2/interpolated.AssemblyInfoInputs.cache
+/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/obj/Debug/netcoreapp2.2/interpolated.AssemblyInfo.cs
+/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/obj/Debug/netcoreapp2.2/interpolated.dll
+/home/alex/code/AlexGeorge29/autoformation_Csharp/interpolated/obj/Debug/netcoreapp2.2/interpolated.pdb
