@@ -1,0 +1,11 @@
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/tpbonwk/bin/Debug/netcoreapp2.2/tpbonwk.deps.json
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/tpbonwk/bin/Debug/netcoreapp2.2/tpbonwk.runtimeconfig.json
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/tpbonwk/bin/Debug/netcoreapp2.2/tpbonwk.runtimeconfig.dev.json
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/tpbonwk/bin/Debug/netcoreapp2.2/tpbonwk.dll
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/tpbonwk/bin/Debug/netcoreapp2.2/tpbonwk.pdb
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/tpbonwk/obj/Debug/netcoreapp2.2/tpbonwk.csprojAssemblyReference.cache
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/tpbonwk/obj/Debug/netcoreapp2.2/tpbonwk.csproj.CoreCompileInputs.cache
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/tpbonwk/obj/Debug/netcoreapp2.2/tpbonwk.AssemblyInfoInputs.cache
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/tpbonwk/obj/Debug/netcoreapp2.2/tpbonwk.AssemblyInfo.cs
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/tpbonwk/obj/Debug/netcoreapp2.2/tpbonwk.dll
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/tpbonwk/obj/Debug/netcoreapp2.2/tpbonwk.pdb

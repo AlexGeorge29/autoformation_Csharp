@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/.net_cours/.net_cours.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

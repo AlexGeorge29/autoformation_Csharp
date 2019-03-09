@@ -1,0 +1,11 @@
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/.net_cours/bin/Debug/netcoreapp2.2/.net_cours.deps.json
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/.net_cours/bin/Debug/netcoreapp2.2/.net_cours.runtimeconfig.json
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/.net_cours/bin/Debug/netcoreapp2.2/.net_cours.runtimeconfig.dev.json
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/.net_cours/bin/Debug/netcoreapp2.2/.net_cours.dll
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/.net_cours/bin/Debug/netcoreapp2.2/.net_cours.pdb
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/.net_cours/obj/Debug/netcoreapp2.2/.net_cours.csprojAssemblyReference.cache
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/.net_cours/obj/Debug/netcoreapp2.2/.net_cours.csproj.CoreCompileInputs.cache
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/.net_cours/obj/Debug/netcoreapp2.2/.net_cours.AssemblyInfoInputs.cache
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/.net_cours/obj/Debug/netcoreapp2.2/.net_cours.AssemblyInfo.cs
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/.net_cours/obj/Debug/netcoreapp2.2/.net_cours.dll
+/home/alexandre/code/AlexGeorge29/01-C#/11-Formation/autoformation_Csharp/02-Open_classroom/01-partie1/.net_cours/obj/Debug/netcoreapp2.2/.net_cours.pdb
